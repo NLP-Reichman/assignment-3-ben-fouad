@@ -23,8 +23,8 @@
     ]
   },
   "test_NERNet": {
-    "f1": 0.8985594399284138,
-    "f1_wo_o": 0.7399031322599473
+    "f1": 0.9149680036550721,
+    "f1_wo_o": 0.7363366436404893
   },
-  "test_glove": "NameError(\"name 'get_emb_matrix' is not defined\")"
+  "test_glove": "FileNotFoundError(2, 'No such file or directory')"
 }
